@@ -1,4 +1,3 @@
-
 result=0
 def add():
     x= int(input("enter the first number:"))
